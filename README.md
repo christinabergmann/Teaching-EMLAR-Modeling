@@ -7,8 +7,9 @@ This repository contains files for the Python computational modeling tutorial at
 
     Course website: http://emlar.wp.hum.uu.nl/
    
-This excersise is build to be compatible with MyBinder. 
+This excercise is build to be compatible with MyBinder. 
 
-Acknowledgements
+## Acknowledgements
+
 This tutorial and exercise were originally designed by Christina Bergmann and Maarten Versteegh, and later-on adjusted by Ingeborg Roete.
 
